@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OmBhor
 - 👀 I’m interested in softaware development and web development
-- 🌱 I’m currently learning DSA with Java <br>
+- 🌱 I’m currently learning DSA with Java And MERN Stack <br>
 
 
 ## 🌐 Socials:
