@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OmBhor
-- 👀 I’m a Full Stack Deceloper
+- 👀 I’m a Full Stack Developer
 - 🌱 I’m currently learning DSA <br>
 
 
