@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building @WebCarft<br>💻 Full stack developer<br>🌱 I’m currently learning JAVA + DSA<br>⚡ Aspiring Software engineer
+💻 Full stack developer<br>🌱 I’m currently learning JAVA + DSA<br>⚡ Aspiring Software engineer
 
 
 ## 🌐 Socials:
